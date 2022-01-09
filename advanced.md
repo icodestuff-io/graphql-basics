@@ -1,0 +1,6 @@
+- add graphql tests for queries & mutations
+- sub-arguments
+- relationships & sub-queries
+- authorization & authentication
+- pagination
+- enums & inputs
